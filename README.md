@@ -1,4 +1,5 @@
 # image_lazy_loading
+Test project based on Netguru's [post](https://www.netguru.co/codestories/lazy-loading-images-with-vue.js-directives-andintersectionobserver)
 
 ## Project setup
 ```
